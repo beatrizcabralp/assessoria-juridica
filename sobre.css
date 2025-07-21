@@ -1,0 +1,20 @@
+#sobre
+{
+    padding: 20px 10px 20px 10px;
+    font-family: 'Times New Roman', Times, serif;
+     background-color: #25282a;
+    color: #ffffff;
+}
+
+#sobre h2
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 2rem;
+}
+
+#sobre p
+{
+    font-size: 1rem;
+    padding-bottom: 20px;
+}

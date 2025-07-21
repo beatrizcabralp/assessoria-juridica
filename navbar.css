@@ -1,0 +1,42 @@
+header
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 70px;
+    background-color: #25282a;
+    color: #ffffff;
+}
+
+nav
+{
+    display: flex;
+}
+
+nav ul
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav li
+{
+    padding-left: 5px;
+    padding-right: 5px;
+    list-style: none;
+}
+
+nav a
+{
+    text-decoration: none;
+     color: #ffffff;
+}
+
+a:hover
+{
+    text-decoration: solid;
+    color: blue;
+}
